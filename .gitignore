@@ -15,4 +15,4 @@ wheels/
 *.jpg
 embeddings/
 .ipynb_checkpoints/
-
+results/
