@@ -1,0 +1,13 @@
+twonn_metric,internal_metric,spearman_corr
+twonn_pca,calinski_harabasz,0.47245559126153397
+twonn_raw,calinski_harabasz,0.3409854393246746
+twonn_umap,calinski_harabasz,0.3321428571428571
+twonn_umap,silhouette,0.028571428571428564
+twonn_raw,silhouette,-0.09180377212587394
+twonn_umap,davies_bouldin_inv,-0.14285714285714282
+twonn_pca,silhouette,-0.17008401285415223
+twonn_raw,davies_bouldin_inv,-0.1704927196623373
+twonn_space,calinski_harabasz,-0.2239422084623323
+twonn_pca,davies_bouldin_inv,-0.28347335475692037
+twonn_space,silhouette,-0.3973168214654283
+twonn_space,davies_bouldin_inv,-0.49638802889576883

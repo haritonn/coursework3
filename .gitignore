@@ -10,9 +10,7 @@ wheels/
 .venv
 
 # Other
-*.csv
 *.xlsx
-*.jpg
 embeddings/
 .ipynb_checkpoints/
-results/
+Разметка_текущая (1).csv
