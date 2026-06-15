@@ -1,0 +1,16 @@
+group_col,group,metric_1,metric_2,spearman_corr,abs_spearman_corr
+embedding_family,jina,f1-score,ari,0.9996787747099302,0.9996787747099302
+embedding_family,jina,precision,f0.5-score,0.9959272455407431,0.9959272455407431
+embedding_family,jina,h_recall,dendrogram_purity,0.9904568110858031,0.9904568110858031
+embedding_family,tfidf,f1-score,ari,0.9998532956647244,0.9998532956647244
+embedding_family,tfidf,h_recall,dendrogram_purity,0.9926054638450719,0.9926054638450719
+embeddings,jina_embeddings_v3,f1-score,ari,0.9999318312137917,0.9999318312137917
+embeddings,jina_embeddings_v3,precision,f0.5-score,0.9950488359165939,0.9950488359165939
+embeddings,jina_embeddings_v3,h_recall,h_f1-score,0.9918389979653599,0.9918389979653599
+embeddings,jina_embeddings_v5_text_small_matching,f1-score,ari,0.9988417454061094,0.9988417454061094
+embeddings,jina_embeddings_v5_text_small_matching,precision,f0.5-score,0.9973466130819627,0.9973466130819627
+embeddings,jina_embeddings_v5_text_small_matching,h_recall,h_f1-score,0.9966042416001893,0.9966042416001893
+embeddings,jina_embeddings_v5_text_small_matching,h_recall,dendrogram_purity,0.9961349000625886,0.9961349000625886
+embeddings,jina_embeddings_v5_text_small_matching,h_f1-score,dendrogram_purity,0.993328209387426,0.993328209387426
+embeddings,tfidf_svd,f1-score,ari,0.9998532956647244,0.9998532956647244
+embeddings,tfidf_svd,h_recall,dendrogram_purity,0.9926054638450719,0.9926054638450719
